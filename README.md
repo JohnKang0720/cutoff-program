@@ -11,3 +11,4 @@ There were also a few optimizations to make the prediction result more accurate:
 Through this program, it was able to approximate the cutoff for the CS program this year. The visualization incorporated in this program suggests that the overall averages of students will definitely increase over time.
 However, there were a couple of data/technical -related problems. The first is that the source of data that was used to create this program may be inaccurate since it was created by a student from UBC. 
 Second, there is a lack of data which would underfit the linear regression plot which caused the residual error as well as the residuals plot to be not 100% accurate.
+
