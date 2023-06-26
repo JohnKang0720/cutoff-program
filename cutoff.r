@@ -17,9 +17,7 @@ axis.line.x=element_line(),
 axis.line.y=element_line()) +
 ggtitle("Linear Model Fitted to Data")
 
-
-print("start")
-
+print("calculate...")
 #continously rounding the averages to find the best fit
 decrease_err <- function(p) {
     #contiously change the data
@@ -62,7 +60,6 @@ df_f <- data.frame(years, grades)
 model <- lm(grades ~ years, data=df_f)
 pred <- predict(model, data.frame(years=predicted_year))
 
-
 #final plot
 plot_f <- ggplot(data = df_f, aes(x = years, y = grades)) +
 geom_point() +
@@ -77,10 +74,3 @@ print(result)
 print(plot(fitted(model), resid(model)))
 abline(0,0)
 print(plot_f)
-
-
-
-
-
-
-
