@@ -79,7 +79,3 @@ print(plot_f)
 
 
 
-
-
-
-
