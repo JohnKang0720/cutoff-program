@@ -1,6 +1,9 @@
 install.packages("ggplot2", dependencies=TRUE)
 library(ggplot2)
 
+#change
+predicted_year <- 2023
+
 #create data frame
 #the 2015 data was removed from grades column as it was an OUTLIER
 years <- seq(from = 2016, to = 2022, by = 1)
@@ -54,7 +57,6 @@ for (i in 1:length(grades)) {
 }
 
 #prediction
-predicted_year <- 2023
 
 df_f <- data.frame(years, grades)
 model <- lm(grades ~ years, data=df_f)
