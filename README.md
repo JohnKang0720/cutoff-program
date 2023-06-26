@@ -21,6 +21,6 @@ Second, there is a lack of data which would underfit the linear regression plot 
 
 ![lr](https://github.com/JohnKang0720/cutoff-program/assets/76849492/470346f6-f230-4dd4-9083-82527b9c9faa)
 
-![residuals](https://github.com/JohnKang0720/cutoff-program/assets/76849492/0de6efa0-a2d0-4e9c-80fa-1a658ece1c56)
+![plot](https://github.com/JohnKang0720/cutoff-program/assets/76849492/0764c9d8-9ff0-4a37-a875-fa8adf3d1ac1)
 
 ![result](https://github.com/JohnKang0720/cutoff-program/assets/76849492/3763fc41-95e1-44f8-b8fd-ab968d8c65eb)
