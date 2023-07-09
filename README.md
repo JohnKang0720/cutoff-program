@@ -22,9 +22,12 @@ Second, there is a lack of data which would underfit the linear regression plot 
 <h3>Results</h3>
 
 <h3> RESIDUAL PLOT </h3>
+
 ![lr](https://github.com/JohnKang0720/cutoff-program/assets/76849492/470346f6-f230-4dd4-9083-82527b9c9faa)
 
 <h3> GRADE vs YEAR </h3>
+
 ![plot](https://github.com/JohnKang0720/cutoff-program/assets/76849492/0764c9d8-9ff0-4a37-a875-fa8adf3d1ac1)
+
 
 ![result](https://github.com/JohnKang0720/cutoff-program/assets/76849492/3763fc41-95e1-44f8-b8fd-ab968d8c65eb)
