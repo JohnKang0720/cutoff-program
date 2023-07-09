@@ -5,6 +5,8 @@
 This cutoff program is intended to provide myself/others on future cutoffs as it will give them a better understanding of the increasing competition every year.
 The program is made using R with an implementation of simple, linear regression. 
 
+<h3> Goal </h3>
+The initial goal was to increase the accuracy level in the linear regression. To do this, there were a few small methods implemented. I had to keep in mind that the data was NOT 100% accurate. In that case, I had to find close estimates of the 'grades' using R that would "make sense" (best fitting).
 
 <h3>Process</h3>
 
